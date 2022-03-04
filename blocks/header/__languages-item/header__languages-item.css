@@ -1,0 +1,25 @@
+.header__languages-item{
+	font-style: normal;
+	letter-spacing: 0;
+	text-align: right;
+	margin-left: 18px;
+	font-weight: 400;
+}
+
+@media (max-width: 320px) {
+	.header__languages-item{
+		font-size: 18px;
+		line-height: 20px;
+	}
+}
+@media (min-width: 321px) {
+	.header__languages-item{
+		font-size: 24px;
+		line-height: 28px;
+	}
+}
+
+.header__languages-item:first-child {
+	margin-left: 0;
+}
+

@@ -1,0 +1,11 @@
+.header__languages{
+	display: flex;
+	flex-direction: row;
+	align-items: flex-end;
+}
+
+@media (max-width: 320px) {
+	.header__languages{
+		margin-right: 16px;
+	}
+}

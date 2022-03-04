@@ -1,0 +1,31 @@
+.header__content{
+	display: flex;
+	justify-content: space-between;
+}
+
+
+@media (max-width: 320px) {
+	.header {
+		padding-top: 16px;
+		width: 320px;
+	}
+}
+@media (min-width: 321px) and (max-width: 768px) {
+	.header{
+		padding-left: 24px;
+		padding-right: 24px;
+		padding-top: 28px;
+	}
+}
+
+@media (min-width: 768px) {
+	.header{
+		padding-left: 48px;
+		padding-right: 48px;
+		padding-top: 28px;
+	}
+}
+
+
+
+

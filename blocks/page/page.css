@@ -1,0 +1,16 @@
+.page{
+	font-family: 'Inter', Arial, sans-serif;
+	position: relative;
+	margin: 0 auto;
+	background: #2a2c2f;
+	/*background: #8b919b;*/
+	color: #FFFFFF;
+	min-width: 320px;
+}
+
+
+	/*.container {*/
+	/*	margin: 0 auto;*/
+	/*	border: 1px solid violet;*/
+	/*}*/
+
