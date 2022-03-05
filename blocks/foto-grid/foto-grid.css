@@ -1,5 +1,5 @@
-@media  (max-width: 767px) {
-	.foto-grid{
+@media (max-width: 767px) {
+	.foto-grid {
 		margin: 65px 16px 0;
 		display: grid;
 		box-sizing: border-box;
@@ -9,7 +9,7 @@
 	}
 }
 
-@media  (min-width: 768px) and (max-width: 1023px) {
+@media (min-width: 768px) and (max-width: 1023px) {
 	.foto-grid {
 		margin: 88px 24px 0;
 		display: grid;
@@ -20,9 +20,8 @@
 	}
 }
 
-
 @media (min-width: 1024px) and (max-width: 1279px) {
-	.foto-grid{
+	.foto-grid {
 		margin: 92px 48px 0;
 		display: grid;
 		box-sizing: border-box;
@@ -33,7 +32,7 @@
 }
 
 @media (min-width: 1280px) {
-	.foto-grid{
+	.foto-grid {
 		margin: 92px 48px 0;
 		display: grid;
 		box-sizing: border-box;

@@ -1,20 +1,18 @@
-.header__content{
+.header__content {
 	display: flex;
 	justify-content: space-between;
-	border: 1px solid red;
 }
 
-@media  (max-width: 767px) {
-	.header{
+@media (max-width: 767px) {
+	.header {
 		margin-left: 16px;
 		margin-right: 16px;
 		padding-top: 16px;
 	}
 }
 
-
-@media (min-width: 768px)  and (max-width: 1023px){
-	.header{
+@media (min-width: 768px)  and (max-width: 1023px) {
+	.header {
 		margin-left: 24px;
 		margin-right: 24px;
 		padding-top: 28px;
@@ -22,7 +20,7 @@
 }
 
 @media (min-width: 1024px) {
-	.header{
+	.header {
 		margin-left: 48px;
 		margin-right: 48px;
 		padding-top: 28px;
