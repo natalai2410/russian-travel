@@ -14,7 +14,7 @@
 	.place__title {
 		grid-area: "title";
 
-		width: 440px;
+		max-width: 440px;
 		margin: 0;
 
 		font-style: normal;

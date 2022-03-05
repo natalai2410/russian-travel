@@ -21,7 +21,7 @@
 		margin: 32px auto 0;
 		font-size: 18px;
 		line-height: 22px;
-		width: 360px;
+		max-width: 360px;
 	}
 }
 

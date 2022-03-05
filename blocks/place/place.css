@@ -4,6 +4,7 @@
 			"title url"
 			"image text";
 	margin-top: 80px;
+	position: relative;
 }
 
 .place:first-child{
