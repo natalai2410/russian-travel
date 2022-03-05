@@ -1,0 +1,15 @@
+.footer__nav-links {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  column-gap: 18px;
+  list-style: none;
+}
+
+@media screen and (max-width: 660px) {
+  .footer__nav-links {
+    flex-direction: column;
+    column-gap: 0;
+    row-gap: 32px;
+  }
+}

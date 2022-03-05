@@ -1,9 +1,17 @@
 .header__languages-item {
+	color: #FFFFFF;
 	font-style: normal;
 	letter-spacing: 0;
 	text-align: right;
 	margin-left: 18px;
 	font-weight: 400;
+	text-decoration: none;
+	transition: opacity 0.3s ease;
+}
+
+.header__languages-item:hover {
+	opacity: 0.8;
+	text-decoration: underline;
 }
 
 @media (max-width: 767px) {

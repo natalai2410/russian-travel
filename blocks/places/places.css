@@ -2,9 +2,6 @@
 	.places {
 		min-width: 320px;
 		margin-top: 64px;
-		/*margin-left: 16px;*/
-		/*margin-right: 16px;*/
-		/*width: 90%;*/
 	}
 }
 
@@ -31,8 +28,4 @@
 		margin-left: 148px;
 		margin-right: 148px;
 	}
-}
-
-.places{
-border: 1px solid white;
 }

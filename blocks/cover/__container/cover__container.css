@@ -1,0 +1,18 @@
+.cover__container {
+	margin: auto;
+	z-index: 1;
+	text-decoration: none;
+
+}
+
+@media (max-width: 767px) {
+	.cover__container {
+		width: 288px;
+	}
+}
+
+@media (min-width: 768px) {
+	.cover__container {
+		max-width: 540px;
+	}
+}
