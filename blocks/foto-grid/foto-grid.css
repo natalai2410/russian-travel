@@ -16,6 +16,7 @@
 	.foto-grid {
 		max-width: calc(100% - (16px * 2));
 		padding: 64px 0 0;
+		border: 1px solid red;
 
 	}
 }
