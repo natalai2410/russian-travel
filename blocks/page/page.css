@@ -13,3 +13,7 @@
     -moz-text-size-adjust: 100%;
 	text-rendering: optimizeLegibility; 
 }
+
+ul{
+	padding-inline-start: 0;
+}
