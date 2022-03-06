@@ -1,8 +1,11 @@
+.place__url{
+	padding: 0;
+	list-style-type: none;
+}
+
 @media (max-width: 767px) {
 	.place__url {
-		padding: 0;
 		max-width: 288px;
-		list-style-type: none;
 		margin: 32px 16px 0;
 	}
 }
@@ -11,12 +14,10 @@
 @media (min-width: 768px) {
 	.place__url {
 		grid-area: "url";
-		padding: 0;
 		margin: 0;
 		max-width: 484px;
 		display: flex;
 		flex-direction: column;
 		align-self: end;
-		list-style-type: none;
 	}
 }

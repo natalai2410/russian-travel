@@ -8,7 +8,7 @@
   justify-items: center;
 }
 
-@media screen and (max-width: 1270px) {
+@media screen and (max-width: 1279px) {
   .foto-grid__items {
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 14px;
@@ -26,4 +26,8 @@
     grid-template-columns: repeat(auto-fill, minmax(288px, 1fr));
     gap: 12px;
   }
+}
+
+.foto-grid__items>li {
+  width: 100%;
 }
